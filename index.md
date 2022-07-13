@@ -6,8 +6,8 @@ title: Hai Vu 07.22 CV
 Founder, Coder, Ex-banker
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="vtvh@icloud.com">vtvh@icloud.com</a>
+| <a href="http://vtvh.me">My homepage</a>
 </div>
 
 
@@ -17,73 +17,53 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Building tech products, websites, and marketing tools.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Decentralized web, metaverse, hardwares.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010 - 2012`
+__Le Quy Don High School, HCMC.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2012-2016`
+__University of Finance and Marketing, HCMC.__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2018 - 2021`
+__Vaasa University of Applied Science, Vaasa, Finland__
 
 
+## Degree
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+IELTS ~ 8.0
 
 
+## Achivements`
 
-## Publications
+`2016`
+Golden Employee of the month, *VPBank*
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2018`
+Valedictorian, *Vaasa University of Applied Science Entrance Exam*
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2016-2018`
+__VPBank__, HCMC
 
-- Warden
-- Minted coins
+- Secured loan
+- Acquiring customer
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2021-Now`
+__ViEn JSC__, HCMC
+
+- Founder
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 13 July 2022 -->
