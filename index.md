@@ -26,13 +26,13 @@ Decentralized web, metaverse, hardwares.
 
 ## Education
 
-`2010 - 2012`
+`2010-2012`
 __Le Quy Don High School, HCMC.__
 
 `2012-2016`
 __University of Finance and Marketing, HCMC.__
 
-`2018 - 2021`
+`2018-2021`
 __Vaasa University of Applied Science, Vaasa, Finland__
 
 
