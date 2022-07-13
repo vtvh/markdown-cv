@@ -6,8 +6,9 @@ title: Hai Vu 07.22 CV
 Founder, Coder, Ex-banker
 
 <div id="webaddress">
-<a href="vtvh@icloud.com">vtvh@icloud.com</a>
+<a href="mailto:vtvh@icloud.com">vtvh@icloud.com</a>
 | <a href="http://vtvh.me">My homepage</a>
+| <a href="tel:+84772098099">0772 098 099</a>
 </div>
 
 
