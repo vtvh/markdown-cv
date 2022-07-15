@@ -7,7 +7,7 @@ Founder, Coder, Ex-banker
 
 <div id="webaddress">
 <a href="mailto:vtvh@icloud.com">vtvh@icloud.com</a>
-| <a href="http://vtvh.me">My homepage</a>
+| <a href="http://vtvh.me/vtvh">My homepage</a>
 | <a href="tel:+84772098099">0772 098 099</a>
 </div>
 
@@ -44,7 +44,7 @@ IELTS ~ 8.0
 ## Achivements`
 
 `2016`
-Golden Employee of the month, *VPBank*
+Golden Employee, *VPBank*
 
 `2018`
 Valedictorian, *Vaasa University of Applied Science Entrance Exam*
@@ -67,4 +67,4 @@ __ViEn JSC__, HCMC
 
 <!-- ### Footer
 
-Last updated: 13 July 2022 -->
+Last updated: 15 July 2022 -->
